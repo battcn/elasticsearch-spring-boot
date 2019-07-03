@@ -8,9 +8,9 @@
         <version>2.1.6.RELEASE</version>
     </parent>
     <groupId>com.battcn</groupId>
-    <artifactId>elasticsearch-spring-boot-samples</artifactId>
+    <artifactId>elasticsearch-spring-boot-sample</artifactId>
     <version>7.1.1.1.SNAPSHOT</version>
-    <name>elasticsearch-spring-boot-samples</name>
+    <name>elasticsearch-spring-boot-sample</name>
 
     <properties>
         <java.version>1.8</java.version>
