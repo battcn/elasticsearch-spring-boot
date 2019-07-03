@@ -8,7 +8,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  * @since 2019-07-03
  */
 @Data
-@ConfigurationProperties(prefix = "spring.elasticsearch.http-client")
+@ConfigurationProperties(prefix = "spring.elasticsearch.rest.http-client")
 public class ElasticsearchHttpClientProperties {
 
     private Integer maxTotal;
