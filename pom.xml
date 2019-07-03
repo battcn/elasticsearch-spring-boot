@@ -8,6 +8,7 @@
     <version>1.0.1.RELEASE</version>
     <url>https://github.com/battcn/elasticsearch-spring-boot-starter.git</url>
     <description>基于 elasticsearch 高版本API做的一款扩展工具包 </description>
+    <name>elasticsearch-spring-boot</name>
     <packaging>pom</packaging>
 
     <modules>
