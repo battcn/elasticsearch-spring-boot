@@ -1,0 +1,1 @@
+provides: elasticsearch-spring-boot-autoconfigure,elasticsearch-rest-high-level-client,elasticsearch-rest-client,elasticsearch
