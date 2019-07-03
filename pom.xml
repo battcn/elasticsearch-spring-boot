@@ -5,7 +5,7 @@
 
     <groupId>com.battcn</groupId>
     <artifactId>elasticsearch-spring-boot</artifactId>
-    <version>7.1.1.1.SNAPSHOT</version>
+    <version>7.1.1.1.RELEASE</version>
     <url>https://github.com/battcn/elasticsearch-spring-boot-starter.git</url>
     <description>基于 elasticsearch 高版本API做的一款扩展工具包 </description>
     <packaging>pom</packaging>

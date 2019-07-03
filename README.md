@@ -30,7 +30,7 @@
 <dependency>
     <groupId>com.battcn</groupId>
     <artifactId>elasticsearch-spring-boot-starter</artifactId>
-    <version>7.1.1.1.SNAPSHOT</version>
+    <version>7.1.1.1.RELEASE</version>
 </dependency>
 ```
 
