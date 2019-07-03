@@ -26,7 +26,7 @@
     <!-- 指定ES版本（重要） -->
     <elasticsearch.version>7.1.1</elasticsearch.version>
 </properties>
-
+<!-- 版本说明：x.y.z 对应es的版本，最后一位代表当前包对应的小版本-->
 <dependency>
     <groupId>com.battcn</groupId>
     <artifactId>elasticsearch-spring-boot-starter</artifactId>
